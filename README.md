@@ -21,4 +21,5 @@ React JS - Digital Pathshala
 [CRUI API for CMS](https://github.com/lilbp221/BlogManagementSystem_NODE_BACKEND)
 
 ## Connect with me 🤝
-[https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg](https://github.com/lilbp221)
+[Linkedin](https://www.linkedin.com/in/binod-pokhrel-6949ab241/)
+[Instagram](https://www.instagram.com/callmebp___/)
