@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Binod Pokhrel 
 
-<!--
-**lilbp221/lilbp221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a highly motivated IT student pursuing a degree in Information Management . With a strong passion for coding and development, I am driven by a problem-solving mindset and a commitment to ethics,morals,and values.Proficient in foundational coding languages such as HTML, CSS, JS, PHP, C,and Java, I also possess knowledge in web development frameworks like NodeJs, ReactJs, Express. 
 
-Here are some ideas to get you started:
+## Skills
+FRONTEND: React Js | Redux | Tailwind CSS
+BACKEND: Node Js | Express | Laravel (Basics)
+DATABASE: MongoDB | MySQL
+TOOLS: GitHub, VS Code, Postman, NPM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+Laravel PHP Framework - CODE IT
+React JS - Digital Pathshala
+
+## Projects
+[Blogbook](https://github.com/lilbp221/BLOGMANAGEMENTSYSWITH_REACT)
+[CMS](https://github.com/lilbp221/ContentMS_SSR_NODEJS)
+[CPSMS](https://github.com/lilbp221/CustomerAndProductMS)
+[Birdbank](https://github.com/lilbp221/CustomerAndProductMS)
+[CRUI API for CMS](https://github.com/lilbp221/BlogManagementSystem_NODE_BACKEND)
+
+## Connect with me 🤝
+[https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg](https://github.com/lilbp221)
