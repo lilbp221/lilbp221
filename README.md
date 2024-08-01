@@ -16,10 +16,11 @@ Hardware and Robotics - Koshi St. James College<br>
 
 ## Projects
 [Blogbook](https://github.com/lilbp221/BLOGMANAGEMENTSYSWITH_REACT)<br>
+[CPMS](https://github.com/lilbp221/CustomerAndProductMS)<br>
+[Birdbank](https://github.com/lilbp221/BIRDBANK)<br>
 [CMS](https://github.com/lilbp221/ContentMS_SSR_NODEJS)<br>
-[CPSMS](https://github.com/lilbp221/CustomerAndProductMS)<br>
-[Birdbank](https://github.com/lilbp221/CustomerAndProductMS)<br>
 [CRUI API for CMS](https://github.com/lilbp221/BlogManagementSystem_NODE_BACKEND)<br>
+
 
 ## Connect with me 🤝
 [Linkedin](https://www.linkedin.com/in/binod-pokhrel-6949ab241/) <br>
