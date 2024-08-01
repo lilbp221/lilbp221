@@ -22,5 +22,5 @@ Hardware and Robotics - Koshi St. James College<br>
 [CRUI API for CMS](https://github.com/lilbp221/BlogManagementSystem_NODE_BACKEND)<br>
 
 ## Connect with me 🤝
-[<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/binod-pokhrel-6949ab241/) <br>
+[Linkedin](https://www.linkedin.com/in/binod-pokhrel-6949ab241/) <br>
 [Instagram](https://www.instagram.com/callmebp___/)
